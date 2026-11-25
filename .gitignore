@@ -1,0 +1,9 @@
+# Временные и рабочие файлы приложения
+_work/
+__pycache__/
+*.py[cod]
+
+# Служебные файлы Windows
+Thumbs.db
+desktop.ini
+*.tmp
